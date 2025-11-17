@@ -1,0 +1,12 @@
+playwright
+pytest
+pytest-playwright
+pytest-html
+pytest-xdist
+allure-pytest
+pytest-check
+python-dotenv
+requests
+black
+flake8
+anyio
